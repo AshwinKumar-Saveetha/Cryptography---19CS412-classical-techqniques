@@ -69,7 +69,7 @@ int main() {
 
 ~~~
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/e19498d0-d156-43c3-b6f7-ea41cc4c5411)
+![image](https://github.com/user-attachments/assets/ffbb66e0-8b1c-4b76-b121-c83710d994dc)
 
 ## RESULT:
 The program is executed successfully
@@ -252,7 +252,8 @@ int main() {
 ~~~
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/c93677f0-a259-49ce-b317-eb0fbd1157f8)
+![image](https://github.com/user-attachments/assets/3adcb380-c2a5-428f-839e-2b1cb499610d)
+
 
 
 ## RESULT:
@@ -360,7 +361,8 @@ int main() {
 
 ~~~
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/877cd9a0-7de9-4d30-a8c8-fdd704a6ad0e)
+![image](https://github.com/user-attachments/assets/382d37bd-b5cb-43a0-a41f-d22f4f277d59)
+
 
 
 
@@ -461,7 +463,7 @@ int main() {
 
 ~~~
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/c04c838e-c6f4-40cd-ac8d-957ea688b817)
+![image](https://github.com/user-attachments/assets/5c28c505-d6af-465c-ab52-984d5349ea80)
 ## RESULT:
 The program is executed successfully
 
@@ -569,7 +571,7 @@ int main() {
 
 ~~~
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/e63f695f-8e99-4212-b654-94c7cd12232f)
+![image](https://github.com/user-attachments/assets/f4e987b6-f3f2-4196-a4cd-20b9fbcbdd28)
 
 
 ## RESULT:
