@@ -206,11 +206,12 @@ int main()
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/9b6d7349-6fa3-4501-ab8b-782925457839)
 
-### Key text: Monarchy 
-### Plain text: instruments 
-### Cipher text: gatlmzclrqtx
+![image](https://github.com/user-attachments/assets/df2acc67-fb32-4d7a-a6d7-714d2335a3aa)
+
+### Key text: AshwinKumar 
+### Plain text: Saveetha 
+### Cipher text: hsycbws
 
 ## RESULT:
 The program is executed successfully
